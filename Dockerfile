@@ -1,5 +1,5 @@
 FROM ubuntu:16.04
-MAINTAINER Salmon Erasmus <salmon.erasmus@fticonsulting.com>
+MAINTAINER Salmon Erasmus <sjerasmus@gmail.com>
 
 # Install dependencies
 RUN apt-get update -y && \
